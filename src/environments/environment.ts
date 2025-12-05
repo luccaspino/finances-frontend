@@ -1,4 +1,4 @@
 export const environment = {
     production: true,
-    endPoint: 'https://back.finances.artadevs.tech'
+    endPoint: 'https://3.237.46.133/:8080'
 };
